@@ -87,7 +87,7 @@ def episode(q_value):
         time += 1
     return time
 
-def figure_6_3():
+def sarsa():
     q_value = np.zeros((WORLD_HEIGHT, WORLD_WIDTH, 4))
     episode_limit = 500
 
@@ -105,7 +105,7 @@ def figure_6_3():
     plt.xlabel('Time steps')
     plt.ylabel('Episodes')
 
-    plt.savefig('../images/figure_6_3.png')
+    plt.savefig('./sarsa.png')
     plt.close()
 
     # display the optimal policy
@@ -131,4 +131,4 @@ def figure_6_3():
     print('Wind strength for each column:\n{}'.format([str(w) for w in WIND]))
 
 if __name__ == '__main__':
-    figure_6_3()
+    sarsa()

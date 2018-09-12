@@ -1,6 +1,6 @@
 # Code for my blog http://www.cnblogs.com/pinard
 
-ǿ��ѧϰ���ִ��룺
+强化学习部分代码：
 
 
 
