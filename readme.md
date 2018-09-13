@@ -5,7 +5,12 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 之前不少朋友反应我博客中的代码都是连续的片段，不好学习，因此这里把文章和代码做一个整理。
 代码部分来源于网络的部分，已加上相关方版权信息。部分为原创，已加上我的版权信息
 
-强化学习文章与代码：
+###目录
+*[强化学习部分](#1)
+
+*[机器学习基础与回归算法部分](#2)
+
+<h3 id="1">强化学习文章与代码：:</h3>
 
 |文章 | 代码|
 ---|---
@@ -16,7 +21,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [强化学习（五）用时序差分法（TD）求解](https://www.cnblogs.com/pinard/p/9529828.html) | 无
 [强化学习（六）时序差分在线控制算法SARSA](https://www.cnblogs.com/pinard/p/9614290.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/sarsa_windy_world.py)
 
-机器学习基础与回归算法文章与代码：
+<h3 id="2">机器学习基础与回归算法文章与代码：</h3>
 
 |文章 | 代码|
 ---|---
