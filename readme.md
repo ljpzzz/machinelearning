@@ -1,15 +1,31 @@
-## 刘建平Pinard的博客配套代码
+# 刘建平Pinard的博客配套代码
 
 http://www.cnblogs.com/pinard 刘建平Pinard
 
 之前不少朋友反应我博客中的代码都是连续的片段，不好学习，因此这里把文章和代码做一个整理。
 代码部分来源于网络的部分，已加上相关方版权信息。部分为原创，已加上我的版权信息
 
-### 目录
-
-* [强化学习部分](#1)
+## 目录
 
 * [机器学习基础与回归算法部分](#2)
+
+* [机器学习分类算法部分](#3)
+
+* [机器学习聚类算法部分](#4)
+
+* [机器学习降维算法部分](#5)
+
+* [机器学习集成学习算法部分](#6)
+
+* [数学统计学部分](#7)
+
+* [机器学习关联算法部分](#8)
+
+* [机器学习推荐算法部分](#9)
+
+* [深度学习算法部分](#10)
+
+* [强化学习部分](#1)
 
 <h3 id="1">强化学习文章与代码：:</h3>
 
@@ -37,5 +53,37 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [Lasso回归算法： 坐标轴下降法与最小角回归法小结](https://www.cnblogs.com/pinard/p/6018889.html) | 无
 [用scikit-learn和pandas学习Ridge回归](https://www.cnblogs.com/pinard/p/6023000.html) | [代码1](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression_1.ipynb) [代码2](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression.ipynb)
 [scikit-learn 线性回归算法库小结](https://www.cnblogs.com/pinard/p/6026343.html)|无
+
+<h3 id="3">机器学习分类算法文章与代码：</h3>
+|文章 | 代码|
+---|---
+[逻辑回归原理小结](https://www.cnblogs.com/pinard/p/6029432.html) |无
+[scikit-learn 逻辑回归类库使用小结](https://www.cnblogs.com/pinard/p/6035872.html) |无
+[感知机原理小结](https://www.cnblogs.com/pinard/p/6042320.html) |无
+[决策树算法原理(上)](https://www.cnblogs.com/pinard/p/6050306.html) |无
+[决策树算法原理(下)](https://www.cnblogs.com/pinard/p/6053344.html)|无
+[scikit-learn决策树算法类库使用小结](https://www.cnblogs.com/pinard/p/6056319.html) |TO be uploaded
+[K近邻法(KNN)原理小结](https://www.cnblogs.com/pinard/p/6061661.html) |无
+[scikit-learn K近邻法类库使用小结](https://www.cnblogs.com/pinard/p/6065607.html) |TO be uploaded
+[朴素贝叶斯算法原理小结](https://www.cnblogs.com/pinard/p/6069267.html) |无
+[scikit-learn 朴素贝叶斯类库使用小结](https://www.cnblogs.com/pinard/p/6074222.html)| TO be uploaded
+[最大熵模型原理小结](https://www.cnblogs.com/pinard/p/6093948.html)|无
+[支持向量机原理(一) 线性支持向量机](https://www.cnblogs.com/pinard/p/6097604.html)|无
+[支持向量机原理(二) 线性支持向量机的软间隔最大化模型](https://www.cnblogs.com/pinard/p/6100722.html)|无
+[支持向量机原理(三)线性不可分支持向量机与核函数](https://www.cnblogs.com/pinard/p/6103615.html)|无
+[支持向量机原理(四)SMO算法原理](https://www.cnblogs.com/pinard/p/6111471.html)|无
+[支持向量机原理(五)线性支持回归](https://www.cnblogs.com/pinard/p/6113120.html)|无
+[scikit-learn 支持向量机算法库使用小结](https://www.cnblogs.com/pinard/p/6117515.html)|无
+
+
+<h3 id="7">数学统计学文章与代码：</h3>
+|文章 | 代码|
+---|---
+[机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | TO be uploaded
+
+<h3 id="8">机器学习关联算法文章与代码：</h3>
+|文章 | 代码|
+---|---
+[日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
 
 License MIT.
