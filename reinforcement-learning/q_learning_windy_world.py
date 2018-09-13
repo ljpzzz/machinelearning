@@ -5,8 +5,6 @@
 # Permission given to modify the code as long as you keep this        #
 # declaration at the top                                              #
 #######################################################################
-##https://www.cnblogs.com/pinard/p/9614290.html ##
-## 强化学习（六）时序差分在线控制算法SARSA ##
 
 import numpy as np
 import matplotlib
@@ -62,32 +60,33 @@ def episode(q_value):
     # initialize state
     state = START
 
+    while state != GOAL:
     # choose an action based on epsilon-greedy algorithm
-    if np.random.binomial(1, EPSILON) == 1:
-        action = np.random.choice(ACTIONS)
-    else:
-        values_ = q_value[state[0], state[1], :]
-        action = np.random.choice([action_ for action_, value_ in enumerate(values_) if value_ == np.max(values_)])
+        if np.random.binomial(1, EPSILON) == 1:
+            action = np.random.choice(ACTIONS)
+        else:
+            values_ = q_value[state[0], state[1], :]
+            action = np.random.choice([action_ for action_, value_ in enumerate(values_) if value_ == np.max(values_)])
 
     # keep going until get to the goal state
-    while state != GOAL:
+
         next_state = step(state, action)
-        if np.random.binomial(1, EPSILON) == 1:
-            next_action = np.random.choice(ACTIONS)
-        else:
-            values_ = q_value[next_state[0], next_state[1], :]
-            next_action = np.random.choice([action_ for action_, value_ in enumerate(values_) if value_ == np.max(values_)])
+        #if np.random.binomial(1, EPSILON) == 1:
+        #    next_action = np.random.choice(ACTIONS)
+        #else:
+        values_ = q_value[next_state[0], next_state[1], :]
+        next_action = np.random.choice([action_ for action_, value_ in enumerate(values_) if value_ == np.max(values_)])
 
         # Sarsa update
         q_value[state[0], state[1], action] += \
             ALPHA * (REWARD + q_value[next_state[0], next_state[1], next_action] -
                      q_value[state[0], state[1], action])
         state = next_state
-        action = next_action
+        #action = next_action
         time += 1
     return time
 
-def sarsa():
+def q_learning():
     q_value = np.zeros((WORLD_HEIGHT, WORLD_WIDTH, 4))
     episode_limit = 500
 
@@ -105,7 +104,7 @@ def sarsa():
     plt.xlabel('Time steps')
     plt.ylabel('Episodes')
 
-    plt.savefig('./sarsa.png')
+    plt.savefig('./q-learning.png')
     plt.close()
 
     # display the optimal policy
@@ -131,4 +130,4 @@ def sarsa():
     print('Wind strength for each column:\n{}'.format([str(w) for w in WIND]))
 
 if __name__ == '__main__':
-    sarsa()
+    q_learning()
