@@ -8,7 +8,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 |文章 | 代码|
 ---|---
-[强化学习（一）模型基础])(https://www.cnblogs.com/pinard/p/9385570.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/introduction.py)
+[强化学习（一）模型基础](https://www.cnblogs.com/pinard/p/9385570.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/introduction.py)
 [强化学习（六）时序差分在线控制算法SARSA](https://www.cnblogs.com/pinard/p/9614290.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/sarsa_windy_world.py)
 
 
