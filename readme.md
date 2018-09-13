@@ -55,6 +55,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [scikit-learn 线性回归算法库小结](https://www.cnblogs.com/pinard/p/6026343.html)|无
 
 <h3 id="3">机器学习分类算法文章与代码：</h3>
+
 |文章 | 代码|
 ---|---
 [逻辑回归原理小结](https://www.cnblogs.com/pinard/p/6029432.html) |无
@@ -77,11 +78,13 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 
 <h3 id="7">数学统计学文章与代码：</h3>
+
 |文章 | 代码|
 ---|---
 [机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | TO be uploaded
 
 <h3 id="8">机器学习关联算法文章与代码：</h3>
+
 |文章 | 代码|
 ---|---
 [日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
