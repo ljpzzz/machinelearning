@@ -29,7 +29,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [scikit-learn 和pandas 基于windows单机机器学习环境的搭建](https://www.cnblogs.com/pinard/p/6013484.html) |无
 [用scikit-learn和pandas学习线性回归](https://www.cnblogs.com/pinard/p/6016029.html) |[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/linear-regression.ipynb)
 [Lasso回归算法： 坐标轴下降法与最小角回归法小结](https://www.cnblogs.com/pinard/p/6018889.html) | 无
-[用scikit-learn和pandas学习Ridge回归](https://www.cnblogs.com/pinard/p/6023000.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression.ipynb)
+[用scikit-learn和pandas学习Ridge回归](https://www.cnblogs.com/pinard/p/6023000.html) | [代码1](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression_1.ipynb) [代码2](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression.ipynb)
 [scikit-learn 线性回归算法库小结](https://www.cnblogs.com/pinard/p/6026343.html)|无
 
 License MIT.
