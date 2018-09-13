@@ -11,6 +11,9 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 ---|---
 [强化学习（一）模型基础](https://www.cnblogs.com/pinard/p/9385570.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/introduction.py)
 [强化学习（二）马尔科夫决策过程(MDP)](https://www.cnblogs.com/pinard/p/9426283.html) | 无
+[强化学习（三）用动态规划（DP）求解](https://www.cnblogs.com/pinard/p/9463815.html) | 无
+[强化学习（四）用蒙特卡罗法（MC）求解](https://www.cnblogs.com/pinard/p/9492980.html) | 无
+[强化学习（五）用时序差分法（TD）求解](https://www.cnblogs.com/pinard/p/9529828.html) | 无
 [强化学习（六）时序差分在线控制算法SARSA](https://www.cnblogs.com/pinard/p/9614290.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/sarsa_windy_world.py)
 
 
