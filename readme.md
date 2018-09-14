@@ -118,5 +118,18 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [谱聚类（spectral clustering）原理总结](https://www.cnblogs.com/pinard/p/6221564.html) |无
 [用scikit-learn学习谱聚类](https://www.cnblogs.com/pinard/p/6235920.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/spectral_cluster.ipynb)
 
+<h3 id="5">机器学习降维算法文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[主成分分析（PCA）原理总结](https://www.cnblogs.com/pinard/p/6239403.html)|无
+[用scikit-learn学习主成分分析(PCA)](https://www.cnblogs.com/pinard/p/6243025.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/pca.ipynb)
+[线性判别分析LDA原理总结](https://www.cnblogs.com/pinard/p/6244265.html)|无
+[用scikit-learn进行LDA降维](https://www.cnblogs.com/pinard/p/6249328.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/lda.ipynb)
+[奇异值分解(SVD)原理与在降维中的应用](https://www.cnblogs.com/pinard/p/6251584.html)|无
+[局部线性嵌入(LLE)原理总结](https://www.cnblogs.com/pinard/p/6266408.html)|无
+[用scikit-learn研究局部线性嵌入(LLE)](https://www.cnblogs.com/pinard/p/6273377.html) |[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/lle.ipynb)
+
+
 
 License MIT.
