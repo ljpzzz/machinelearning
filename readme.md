@@ -27,6 +27,10 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 * [强化学习算法部分](#1)
 
+## 注意
+
+2016-2017年写的博客使用的python版本是2.7， 2018年因为TensorFlow对Python3的一些要求，所以写博客使用的Python版本是3.6。少部分2016，2017年的博客代码无法找到，重新用Python3.6跑过上传，因此可能会出现和博客中代码稍有不一致的地方，主要涉及到print的语法和range的用法，若遇到问题，稍微修改即可跑通。
+
 <h3 id="1">强化学习文章与代码：:</h3>
 
 |文章 | 代码|
@@ -88,5 +92,21 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 |文章 | 代码|
 ---|---
 [日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
+
+<h3 id="6">机器学习集成学习文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[集成学习原理小结](https://www.cnblogs.com/pinard/p/6131423.html) | 无
+[集成学习之Adaboost算法原理小结](https://www.cnblogs.com/pinard/p/6133937.html) | 无
+[scikit-learn Adaboost类库使用小结](https://www.cnblogs.com/pinard/p/6136914.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/adaboost-classifier.ipynb)
+[梯度提升树(GBDT)原理小结](https://www.cnblogs.com/pinard/p/6140514.html) | 无
+[scikit-learn 梯度提升树(GBDT)调参小结](https://www.cnblogs.com/pinard/p/6143927.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/gbdt_classifier.ipynb)
+[Bagging与随机森林算法原理小结](https://www.cnblogs.com/pinard/p/6156009.html) | 无
+[scikit-learn随机森林调参小结](https://www.cnblogs.com/pinard/p/6160412.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/random_forest_classifier.ipynb)
+
+
+
+
 
 License MIT.
