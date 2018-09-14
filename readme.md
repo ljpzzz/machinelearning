@@ -87,12 +87,6 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 ---|---
 [机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/random_data_generation.ipynb)
 
-<h3 id="8">机器学习关联算法文章与代码：</h3>
-
-|文章 | 代码|
----|---
-[日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
-
 <h3 id="6">机器学习集成学习文章与代码：</h3>
 
 |文章 | 代码|
@@ -139,6 +133,6 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [FP Tree算法原理总结](https://www.cnblogs.com/pinard/p/6307064.html)|无
 [PrefixSpan算法原理总结](https://www.cnblogs.com/pinard/p/6323182.html)|无
 [用Spark学习FP Tree算法和PrefixSpan算法](https://www.cnblogs.com/pinard/p/6340162.html)| to be uploaded
-
+[日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
 
 License MIT.
