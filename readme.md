@@ -75,7 +75,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [支持向量机原理(四)SMO算法原理](https://www.cnblogs.com/pinard/p/6111471.html)|无
 [支持向量机原理(五)线性支持回归](https://www.cnblogs.com/pinard/p/6113120.html)|无
 [scikit-learn 支持向量机算法库使用小结](https://www.cnblogs.com/pinard/p/6117515.html)|无
-
+[支持向量机高斯核调参小结](https://www.cnblogs.com/pinard/p/6126077.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/svm_classifier.ipynb)
 
 <h3 id="7">数学统计学文章与代码：</h3>
 
