@@ -130,6 +130,15 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [局部线性嵌入(LLE)原理总结](https://www.cnblogs.com/pinard/p/6266408.html)|无
 [用scikit-learn研究局部线性嵌入(LLE)](https://www.cnblogs.com/pinard/p/6273377.html) |[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/lle.ipynb)
 
+<h3 id="8">机器学习关联算法文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[典型关联分析(CCA)原理总结](https://www.cnblogs.com/pinard/p/6288716.html)|无
+[Apriori算法原理总结](https://www.cnblogs.com/pinard/p/6293298.html)|无
+[FP Tree算法原理总结](https://www.cnblogs.com/pinard/p/6307064.html)|无
+[PrefixSpan算法原理总结](https://www.cnblogs.com/pinard/p/6323182.html)|无
+[用Spark学习FP Tree算法和PrefixSpan算法](https://www.cnblogs.com/pinard/p/6340162.html)| to be uploaded
 
 
 License MIT.
