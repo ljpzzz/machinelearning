@@ -81,7 +81,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 |文章 | 代码|
 ---|---
-[机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | TO be uploaded
+[机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | [代码] (https://github.com/ljpzzz/machinelearning/blob/master/mathematics/random_data_generation.ipynb)
 
 <h3 id="8">机器学习关联算法文章与代码：</h3>
 
