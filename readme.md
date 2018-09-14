@@ -105,8 +105,18 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [Bagging与随机森林算法原理小结](https://www.cnblogs.com/pinard/p/6156009.html) | 无
 [scikit-learn随机森林调参小结](https://www.cnblogs.com/pinard/p/6160412.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/random_forest_classifier.ipynb)
 
+<h3 id="4">机器学习聚类算法文章与代码：</h3>
 
-
+|文章 | 代码|
+---|---
+[K-Means聚类算法原理](https://www.cnblogs.com/pinard/p/6164214.html)|无
+[用scikit-learn学习K-Means聚类](https://www.cnblogs.com/pinard/p/6169370.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/kmeans_cluster.ipynb)
+[BIRCH聚类算法原理](https://www.cnblogs.com/pinard/p/6179132.html)|无
+[用scikit-learn学习BIRCH聚类](https://www.cnblogs.com/pinard/p/6200579.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/birch_cluster.ipynb)
+[DBSCAN密度聚类算法](https://www.cnblogs.com/pinard/p/6208966.html)|无
+[用scikit-learn学习DBSCAN聚类](https://www.cnblogs.com/pinard/p/6217852.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/dbscan_cluster.ipynb)
+[谱聚类（spectral clustering）原理总结](https://www.cnblogs.com/pinard/p/6221564.html) |无
+[用scikit-learn学习谱聚类](https://www.cnblogs.com/pinard/p/6235920.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/spectral_cluster.ipynb)
 
 
 License MIT.
