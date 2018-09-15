@@ -132,7 +132,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [Apriori算法原理总结](https://www.cnblogs.com/pinard/p/6293298.html)|无
 [FP Tree算法原理总结](https://www.cnblogs.com/pinard/p/6307064.html)|无
 [PrefixSpan算法原理总结](https://www.cnblogs.com/pinard/p/6323182.html)|无
-[用Spark学习FP Tree算法和PrefixSpan算法](https://www.cnblogs.com/pinard/p/6340162.html)| to be uploaded
+[用Spark学习FP Tree算法和PrefixSpan算法](https://www.cnblogs.com/pinard/p/6340162.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/fp_tree_prefixspan.ipynb)
 [日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
 
 License MIT.
