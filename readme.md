@@ -25,6 +25,8 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 * [深度学习算法部分](#10)
 
+* [自然语言处理算法部分](#11)
+
 * [强化学习算法部分](#1)
 
 ## 注意
@@ -134,5 +136,30 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [PrefixSpan算法原理总结](https://www.cnblogs.com/pinard/p/6323182.html)|无
 [用Spark学习FP Tree算法和PrefixSpan算法](https://www.cnblogs.com/pinard/p/6340162.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/fp_tree_prefixspan.ipynb)
 [日志和告警数据挖掘经验谈](https://www.cnblogs.com/pinard/p/6039099.html) | 无
+
+<h3 id="9">机器学习推荐算法文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[协同过滤推荐算法总结](https://www.cnblogs.com/pinard/p/6349233.html)|无
+[矩阵分解在协同过滤推荐算法中的应用](https://www.cnblogs.com/pinard/p/6351319.html)|无
+[SimRank协同过滤推荐算法](https://www.cnblogs.com/pinard/p/6362647.html)|无
+[用Spark学习矩阵分解推荐算法](https://www.cnblogs.com/pinard/p/6364932.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/matrix_factorization.ipynb)
+[分解机(Factorization Machines)推荐算法原理](https://www.cnblogs.com/pinard/p/6370127.html)|无
+
+<h3 id="10">深度学习算法文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[深度神经网络（DNN）模型与前向传播算法](https://www.cnblogs.com/pinard/p/6418668.html)|无
+[深度神经网络（DNN）反向传播算法(BP)](https://www.cnblogs.com/pinard/p/6422831.html)|无
+[深度神经网络（DNN）损失函数和激活函数的选择](https://www.cnblogs.com/pinard/p/6437495.html)|无
+[深度神经网络（DNN）的正则化](https://www.cnblogs.com/pinard/p/6472666.html)|无
+[卷积神经网络(CNN)模型结构](https://www.cnblogs.com/pinard/p/6483207.html)|无
+[卷积神经网络(CNN)前向传播算法](https://www.cnblogs.com/pinard/p/6489633.html)|无
+[卷积神经网络(CNN)反向传播算法](https://www.cnblogs.com/pinard/p/6494810.html)|无
+[循环神经网络(RNN)模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6509630.html)|无
+[LSTM模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6519110.html)|无
+[受限玻尔兹曼机（RBM）原理总结](https://www.cnblogs.com/pinard/p/6530523.html)|无
 
 License MIT.
