@@ -88,6 +88,10 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 |文章 | 代码|
 ---|---
 [机器学习算法的随机数据生成](https://www.cnblogs.com/pinard/p/6047802.html) | [代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/random_data_generation.ipynb)
+[MCMC(一)蒙特卡罗方法](https://www.cnblogs.com/pinard/p/6625739.html)|无
+[MCMC(二)马尔科夫链](https://www.cnblogs.com/pinard/p/6632399.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_2.ipynb)
+[MCMC(三)MCMC采样和M-H采样](https://www.cnblogs.com/pinard/p/6638955.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_3_4.ipynb)
+[MCMC(四)Gibbs采样](https://www.cnblogs.com/pinard/p/6645766.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/mathematics/mcmc_3_4.ipynb)
 
 <h3 id="6">机器学习集成学习文章与代码：</h3>
 
