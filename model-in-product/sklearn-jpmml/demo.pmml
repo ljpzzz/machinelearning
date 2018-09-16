@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PMML xmlns="http://www.dmg.org/PMML-4_3" version="4.3">
+	<Header>
+		<Application name="JPMML-SkLearn" version="1.5.3"/>
+		<Timestamp>2018-06-24T05:47:17Z</Timestamp>
+	</Header>
+	<MiningBuildTask>
+		<Extension>PMMLPipeline(steps=[('classifier', DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=9,
+            splitter='best'))])</Extension>
+	</MiningBuildTask>
+	<DataDictionary>
+		<DataField name="y" optype="categorical" dataType="integer">
+			<Value value="0"/>
+			<Value value="1"/>
+			<Value value="2"/>
+		</DataField>
+		<DataField name="x3" optype="continuous" dataType="float"/>
+		<DataField name="x4" optype="continuous" dataType="float"/>
+	</DataDictionary>
+	<TransformationDictionary>
+		<DerivedField name="double(x3)" optype="continuous" dataType="double">
+			<FieldRef field="x3"/>
+		</DerivedField>
+		<DerivedField name="double(x4)" optype="continuous" dataType="double">
+			<FieldRef field="x4"/>
+		</DerivedField>
+	</TransformationDictionary>
+	<TreeModel functionName="classification" missingValueStrategy="nullPrediction" splitCharacteristic="multiSplit">
+		<MiningSchema>
+			<MiningField name="y" usageType="target"/>
+			<MiningField name="x3"/>
+			<MiningField name="x4"/>
+		</MiningSchema>
+		<Output>
+			<OutputField name="probability(0)" optype="continuous" dataType="double" feature="probability" value="0"/>
+			<OutputField name="probability(1)" optype="continuous" dataType="double" feature="probability" value="1"/>
+			<OutputField name="probability(2)" optype="continuous" dataType="double" feature="probability" value="2"/>
+		</Output>
+		<Node>
+			<True/>
+			<Node>
+				<SimplePredicate field="double(x3)" operator="lessOrEqual" value="3.5"/>
+				<Node score="1" recordCount="1.0">
+					<SimplePredicate field="double(x3)" operator="lessOrEqual" value="2.0"/>
+					<ScoreDistribution value="0" recordCount="0.0"/>
+					<ScoreDistribution value="1" recordCount="1.0"/>
+					<ScoreDistribution value="2" recordCount="0.0"/>
+				</Node>
+				<Node score="0" recordCount="2.0">
+					<True/>
+					<ScoreDistribution value="0" recordCount="2.0"/>
+					<ScoreDistribution value="1" recordCount="0.0"/>
+					<ScoreDistribution value="2" recordCount="0.0"/>
+				</Node>
+			</Node>
+			<Node score="2" recordCount="1.0">
+				<SimplePredicate field="double(x4)" operator="lessOrEqual" value="8.0"/>
+				<ScoreDistribution value="0" recordCount="0.0"/>
+				<ScoreDistribution value="1" recordCount="0.0"/>
+				<ScoreDistribution value="2" recordCount="1.0"/>
+			</Node>
+			<Node score="1" recordCount="1.0">
+				<True/>
+				<ScoreDistribution value="0" recordCount="0.0"/>
+				<ScoreDistribution value="1" recordCount="1.0"/>
+				<ScoreDistribution value="2" recordCount="0.0"/>
+			</Node>
+		</Node>
+	</TreeModel>
+</PMML>

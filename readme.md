@@ -61,6 +61,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [Lasso回归算法： 坐标轴下降法与最小角回归法小结](https://www.cnblogs.com/pinard/p/6018889.html) | 无
 [用scikit-learn和pandas学习Ridge回归](https://www.cnblogs.com/pinard/p/6023000.html) | [代码1](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression_1.ipynb) [代码2](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/ridge_regression.ipynb)
 [scikit-learn 线性回归算法库小结](https://www.cnblogs.com/pinard/p/6026343.html)|无
+[异常点检测算法小结](https://www.cnblogs.com/pinard/p/9314198.html)|无
 
 <h3 id="3">机器学习分类算法文章与代码：</h3>
 
@@ -152,6 +153,8 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [SimRank协同过滤推荐算法](https://www.cnblogs.com/pinard/p/6362647.html)|无
 [用Spark学习矩阵分解推荐算法](https://www.cnblogs.com/pinard/p/6364932.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/matrix_factorization.ipynb)
 [分解机(Factorization Machines)推荐算法原理](https://www.cnblogs.com/pinard/p/6370127.html)|无
+[贝叶斯个性化排序(BPR)算法小结](https://www.cnblogs.com/pinard/p/9128682.html)|无
+[用tensorflow学习贝叶斯个性化排序(BPR)](https://www.cnblogs.com/pinard/p/9163481.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/classic-machine-learning/bpr.ipynb)
 
 <h3 id="10">深度学习算法文章与代码：</h3>
 
@@ -197,5 +200,14 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)|无
 [用gensim学习word2vec](https://www.cnblogs.com/pinard/p/7278324.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/word2vec.ipynb)
 
+<h3 id="12">特征工程与算法落地文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[特征工程之特征选择](https://www.cnblogs.com/pinard/p/9032759.html)|无
+[特征工程之特征表达](https://www.cnblogs.com/pinard/p/9061549.html)|无
+[特征工程之特征预处理](https://www.cnblogs.com/pinard/p/9093890.html)|无
+[用PMML实现机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9220199.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/sklearn-jpmml)
+[tensorflow机器学习模型的跨平台上线](https://www.cnblogs.com/pinard/p/9251296.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/model-in-product/tensorflow-java)
 
 License MIT.
