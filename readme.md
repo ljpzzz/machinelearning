@@ -29,6 +29,8 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 * [强化学习算法部分](#1)
 
+* [特征工程与算法落地部分](#12)
+
 ## 注意
 
 2016-2017年写的博客使用的python版本是2.7， 2018年因为TensorFlow对Python3的一些要求，所以写博客使用的Python版本是3.6。少部分2016，2017年的博客代码无法找到，重新用Python3.6跑过上传，因此可能会出现和博客中代码稍有不一致的地方，主要涉及到print的语法和range的用法，若遇到问题，稍微修改即可跑通。
@@ -165,5 +167,15 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [循环神经网络(RNN)模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6509630.html)|无
 [LSTM模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6519110.html)|无
 [受限玻尔兹曼机（RBM）原理总结](https://www.cnblogs.com/pinard/p/6530523.html)|无
+
+<h3 id="11">自然语言处理文章与代码：</h3>
+
+|文章 | 代码|
+---|---
+[文本挖掘的分词原理](https://www.cnblogs.com/pinard/p/6677078.html)|无
+[文本挖掘预处理之向量化与Hash Trick](https://www.cnblogs.com/pinard/p/6688348.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/hash_trick.ipynb)
+[文本挖掘预处理之TF-IDF](https://www.cnblogs.com/pinard/p/6693230.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/tf-idf.ipynb)
+[中文文本挖掘预处理流程总结](https://www.cnblogs.com/pinard/p/6744056.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/chinese_digging.ipynb)
+[英文文本挖掘预处理流程总结](https://www.cnblogs.com/pinard/p/6756534.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/english_digging.ipynb)
 
 License MIT.
