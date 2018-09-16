@@ -192,9 +192,9 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [条件随机场CRF(一)从随机场到线性链条件随机场](https://www.cnblogs.com/pinard/p/7048333.html)|无
 [条件随机场CRF(二) 前向后向算法评估标记序列概率](https://www.cnblogs.com/pinard/p/7055072.html)|无
 [条件随机场CRF(三) 模型学习与维特比算法解码](https://www.cnblogs.com/pinard/p/7068574.html)|无
-[word2vec原理(一) CBOW与Skip-Gram模型基础])(https://www.cnblogs.com/pinard/p/7160330.html)|无
+[word2vec原理(一) CBOW与Skip-Gram模型基础](https://www.cnblogs.com/pinard/p/7160330.html)|无
 [word2vec原理(二) 基于Hierarchical Softmax的模型](https://www.cnblogs.com/pinard/p/7243513.html)|无
-[word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)|(https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/word2vec.ipynb)
+[word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/word2vec.ipynb)
 [用gensim学习word2vec](https://www.cnblogs.com/pinard/p/7278324.html)|
 
 
