@@ -184,6 +184,13 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [文本主题模型之LDA(三) LDA求解之变分推断EM算法](https://www.cnblogs.com/pinard/p/6873703.html)|无
 [用scikit-learn学习LDA主题模型](https://www.cnblogs.com/pinard/p/6908150.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/lda.ipynb)
 [EM算法原理总结](https://www.cnblogs.com/pinard/p/6912636.html)|无
-
+[隐马尔科夫模型HMM（一）HMM模型](https://www.cnblogs.com/pinard/p/6945257.html)|无
+[隐马尔科夫模型HMM（二）前向后向算法评估观察序列概率](https://www.cnblogs.com/pinard/p/6955871.html)|无
+[隐马尔科夫模型HMM（三）鲍姆-韦尔奇算法求解HMM参数](https://www.cnblogs.com/pinard/p/6972299.html)|无
+[隐马尔科夫模型HMM（四）维特比算法解码隐藏状态序列](https://www.cnblogs.com/pinard/p/6991852.html)|无
+[用hmmlearn学习隐马尔科夫模型HMM](https://www.cnblogs.com/pinard/p/7001397.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/hmm.ipynb)
+[条件随机场CRF(一)从随机场到线性链条件随机场](https://www.cnblogs.com/pinard/p/7048333.html)|无
+[条件随机场CRF(二) 前向后向算法评估标记序列概率](https://www.cnblogs.com/pinard/p/7055072.html)|无
+[条件随机场CRF(三) 模型学习与维特比算法解码](https://www.cnblogs.com/pinard/p/7068574.html)|无
 
 License MIT.
