@@ -177,5 +177,13 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [文本挖掘预处理之TF-IDF](https://www.cnblogs.com/pinard/p/6693230.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/tf-idf.ipynb)
 [中文文本挖掘预处理流程总结](https://www.cnblogs.com/pinard/p/6744056.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/chinese_digging.ipynb)
 [英文文本挖掘预处理流程总结](https://www.cnblogs.com/pinard/p/6756534.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/english_digging.ipynb)
+[文本主题模型之潜在语义索引(LSI)](https://www.cnblogs.com/pinard/p/6805861.html)|无
+[文本主题模型之非负矩阵分解(NMF)](https://www.cnblogs.com/pinard/p/6812011.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/nmf.ipynb)
+[文本主题模型之LDA(一) LDA基础](https://www.cnblogs.com/pinard/p/6831308.html)|无
+[文本主题模型之LDA(二) LDA求解之Gibbs采样算法](https://www.cnblogs.com/pinard/p/6867828.html)|无
+[文本主题模型之LDA(三) LDA求解之变分推断EM算法](https://www.cnblogs.com/pinard/p/6873703.html)|无
+[用scikit-learn学习LDA主题模型](https://www.cnblogs.com/pinard/p/6908150.html)|[代码](https://github.com/ljpzzz/machinelearning/blob/master/natural-language-processing/lda.ipynb)
+[EM算法原理总结](https://www.cnblogs.com/pinard/p/6912636.html)|无
+
 
 License MIT.
