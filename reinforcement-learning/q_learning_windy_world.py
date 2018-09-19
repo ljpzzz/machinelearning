@@ -5,6 +5,8 @@
 # Permission given to modify the code as long as you keep this        #
 # declaration at the top                                              #
 #######################################################################
+##https://www.cnblogs.com/pinard/p/9669263.html ##
+## 强化学习（七）时序差分离线控制算法Q-Learning ##
 
 import numpy as np
 import matplotlib
