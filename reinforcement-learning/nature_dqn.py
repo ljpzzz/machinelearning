@@ -20,7 +20,7 @@ INITIAL_EPSILON = 0.5 # starting value of epsilon
 FINAL_EPSILON = 0.01 # final value of epsilon
 REPLAY_SIZE = 10000 # experience replay buffer size
 BATCH_SIZE = 32 # size of minibatch
-REPLACE_TARGET_FREQ = 20 # frequency to update target Q network
+REPLACE_TARGET_FREQ = 10 # frequency to update target Q network
 
 class DQN():
   # DQN Agent
@@ -134,7 +134,7 @@ class DQN():
     # update target Q netowrk
     if episode % REPLACE_TARGET_FREQ == 0:
         self.session.run(self.target_replace_op)
-        print('episode '+episode +', target Q network params replaced!')
+        print('episode '+str(episode) +', target Q network params replaced!')
 
   def weight_variable(self,shape):
     initial = tf.truncated_normal(shape)
