@@ -134,7 +134,7 @@ class DQN():
     # update target Q netowrk
     if episode % REPLACE_TARGET_FREQ == 0:
         self.session.run(self.target_replace_op)
-        print('episode '+str(episode) +', target Q network params replaced!')
+        #print('episode '+str(episode) +', target Q network params replaced!')
 
   def weight_variable(self,shape):
     initial = tf.truncated_normal(shape)
@@ -148,7 +148,7 @@ class DQN():
 ENV_NAME = 'CartPole-v0'
 EPISODE = 3000 # Episode limitation
 STEP = 300 # Step limitation in an episode
-TEST = 10 # The number of experiment test every 100 episode
+TEST = 5 # The number of experiment test every 100 episode
 
 def main():
   # initialize OpenAI Gym env and dqn agent
