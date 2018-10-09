@@ -6,7 +6,7 @@
 # declaration at the top                                              #
 #######################################################################
 ##https://www.cnblogs.com/pinard/p/9756075.html##
-##强化学习（九）与Deep Q-Learning进阶之Nature DQN##
+##强化学习（九）Deep Q-Learning进阶之Nature DQN##
 
 import gym
 import tensorflow as tf
