@@ -5,8 +5,8 @@
 # Permission given to modify the code as long as you keep this        #
 # declaration at the top                                              #
 #######################################################################
-####
-####
+## https://www.cnblogs.com/pinard/p/9778063.html ##
+## 强化学习（十）Double DQN (DDQN) ##
 
 import gym
 import tensorflow as tf
