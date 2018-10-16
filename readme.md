@@ -49,6 +49,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [强化学习（八）价值函数的近似表示与Deep Q-Learning](https://www.cnblogs.com/pinard/p/9714655.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/dqn.py)
 [强化学习（九）Deep Q-Learning进阶之Nature DQN](https://www.cnblogs.com/pinard/p/9756075.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/nature_dqn.py)
 [强化学习（十）Double DQN (DDQN)](https://www.cnblogs.com/pinard/p/9778063.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/ddqn.py)
+[强化学习(十一) Prioritized Replay DQN](https://www.cnblogs.com/pinard/p/9797695.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/ddqn_prioritised_replay.py)
 
 <h3 id="2">机器学习基础与回归算法文章与代码：</h3>
 

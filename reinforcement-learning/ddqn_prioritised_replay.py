@@ -7,8 +7,8 @@
 #######################################################################
 # SumTree and Memory class are referred from https://github.com/MorvanZhou #
 
-####
-####
+## https://www.cnblogs.com/pinard/p/9797695.html ##
+## 强化学习(十一) Prioritized Replay DQN ##
 
 import gym
 import tensorflow as tf
