@@ -51,6 +51,8 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [强化学习（十）Double DQN (DDQN)](https://www.cnblogs.com/pinard/p/9778063.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/ddqn.py)
 [强化学习(十一) Prioritized Replay DQN](https://www.cnblogs.com/pinard/p/9797695.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/ddqn_prioritised_replay.py)
 [强化学习(十二) Dueling DQN](https://www.cnblogs.com/pinard/p/9923859.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/duel_dqn.py)
+[强化学习(十三) 策略梯度(Policy Gradient)](https://www.cnblogs.com/pinard/p/10137696.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/policy_gradient.py)
+
 
 <h3 id="2">机器学习基础与回归算法文章与代码：</h3>
 
