@@ -55,7 +55,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [强化学习(十四) Actor-Critic](https://www.cnblogs.com/pinard/p/10272023.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/actor_critic.py)
 [强化学习(十五) A3C](https://www.cnblogs.com/pinard/p/10334127.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/a3c.py)
 [强化学习(十六) 深度确定性策略梯度(DDPG)](https://www.cnblogs.com/pinard/p/10345762.html)  | [代码](https://github.com/ljpzzz/machinelearning/blob/master/reinforcement-learning/ddpg.py)
-
+[强化学习(十七) 基于模型的强化学习与Dyna算法框架](https://www.cnblogs.com/pinard/p/10384424.html) | 无
 
 <h3 id="2">机器学习基础与回归算法文章与代码：</h3>
 
