@@ -51,7 +51,7 @@ class Policy_Gradient():
                                                                       labels=self.tf_acts)
         self.loss = tf.reduce_mean(self.neg_log_prob * self.tf_vt)  # reward guided loss
 
-        self.train_op = tf.train.AdamOptimizer(LEARNING_RATE).minimize(self.loss)
+        self.train_op = tf.train.AdamOptimizer(LEARNING_RATE).minimize(-self.loss)
 
     def weight_variable(self, shape):
         initial = tf.truncated_normal(shape)
