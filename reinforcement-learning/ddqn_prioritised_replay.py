@@ -180,7 +180,7 @@ class DQN():
         # hidden layers
         h_layer_t = tf.nn.relu(tf.matmul(self.state_input,W1t) + b1t)
         # Q Value layer
-        self.target_Q_value = tf.matmul(h_layer,W2t) + b2t
+        self.target_Q_value = tf.matmul(h_layer_t,W2t) + b2t
 
     t_params = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope='target_net')
     e_params = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope='current_net')
