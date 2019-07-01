@@ -115,6 +115,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [机器学习中的矩阵向量求导(二) 矩阵向量求导之定义法](https://www.cnblogs.com/pinard/p/10773942.html)|无
 [机器学习中的矩阵向量求导(三) 矩阵向量求导之微分法](https://www.cnblogs.com/pinard/p/10791506.html)|无
 [机器学习中的矩阵向量求导(四) 矩阵向量求导链式法则](https://www.cnblogs.com/pinard/p/10825264.html)|无
+[机器学习中的矩阵向量求导(五) 矩阵对矩阵的求导](https://www.cnblogs.com/pinard/p/10930902.html)|无
 
 
 <h3 id="6">机器学习集成学习文章与代码：</h3>
@@ -128,6 +129,9 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 [scikit-learn 梯度提升树(GBDT)调参小结](https://www.cnblogs.com/pinard/p/6143927.html)| [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/gbdt_classifier.ipynb)
 [Bagging与随机森林算法原理小结](https://www.cnblogs.com/pinard/p/6156009.html) | 无
 [scikit-learn随机森林调参小结](https://www.cnblogs.com/pinard/p/6160412.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/random_forest_classifier.ipynb)
+[XGBoost算法原理小结](https://www.cnblogs.com/pinard/p/10979808.html) | 无
+[XGBoost类库使用小结](https://www.cnblogs.com/pinard/p/11114748.html) |  [代码](https://github.com/ljpzzz/machinelearning/blob/master/ensemble-learning/xgboost-example.ipynb)
+
 
 <h3 id="4">机器学习聚类算法文章与代码：</h3>
 
