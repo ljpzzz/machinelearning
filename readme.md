@@ -239,6 +239,12 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 你的支持是我写作的动力：
 
+微信：
+
 ![微信赞助](./assert/invoice.bmp)
+
+支付宝：
+
+![支付宝赞助](./assert/invoice_ali.bmp)
 
 License MIT.
