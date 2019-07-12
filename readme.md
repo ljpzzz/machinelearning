@@ -242,4 +242,6 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 ![微信赞助](./assert/invoice.bmp)
 
 
+![支付宝赞助](./assert/invoice_ali.bmp)
+
 License MIT.
