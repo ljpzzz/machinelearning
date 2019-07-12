@@ -237,7 +237,7 @@ http://www.cnblogs.com/pinard 刘建平Pinard
 
 <h3 id="13">赞助我</h3>
 
-你的支持是我写作的动力：
+你的支持是我写作的动力(1.微信/2.支付宝)：
 
 ![微信赞助](./assert/invoice.bmp)
 
