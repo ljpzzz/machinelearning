@@ -1,6 +1,6 @@
 # 刘建平Pinard的博客配套代码
 
-http://www.cnblogs.com/pinard 刘建平Pinard
+http://www.cnblogs.com/pinard 刘建平Pinar
 
 之前不少朋友反应我博客中的代码都是连续的片段，不好学习，因此这里把文章和代码做一个整理。
 代码有部分来源于网络，已加上相关方版权信息。部分为自己原创，已加上我的版权信息。
